@@ -1,5 +1,5 @@
 body {
-  background: url(../https://i.imgur.com/snyhDny.jpg);
+  background: url("https://i.imgur.com/snyhDny.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
